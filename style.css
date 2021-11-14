@@ -1,0 +1,119 @@
+.greenbox {
+    background: green;
+    width:1040px;
+    height:500px;
+    border: 2px solid yellow;
+}
+
+.redbox {
+    background: red;
+    width:1040px;
+    height:500px;
+    border: 2px solid yellow;
+}
+
+.bluebox {
+    background: linear-gradient(to right, blue, lightblue);
+    width:1040px;
+    height: 300px;
+    border: 2px solid yellow;
+    float: right;
+}
+
+.greybox {
+    background:grey;
+    width:1040px;
+    height:100px;
+    border: 2px solid yellow;
+}
+
+header {
+    text-align: center;
+    border: 1px solid grey;
+    position: fixed;
+    top: 0px;
+    left: 5px;
+    width: 99%;
+    color:black;
+    background-color: hsla(0, 0%, 100%, 0.5);
+}
+
+.circle {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color:salmon;
+    position: fixed;
+    top: 230px;
+    right: 300px;
+}
+
+.greencircle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:springgreen;
+    position: fixed;
+    left:70px;
+    top: 10px;
+}
+
+.font-card .creator {
+    font-style: italic;
+}
+
+.garamond {
+    font-family:Garamond;
+}
+
+.monospaced {
+    font-family: monospace;
+}
+
+.serif {
+    font-family: serif;
+}
+
+.color-green {
+    color:springgreen;
+
+}
+
+.color-blue {
+    color:blue;
+}
+
+.color-red {
+    color:red;
+}
+
+.itallic {
+    font-style:italic;
+}
+
+.bold {
+    font-family: bold;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.blue-box {
+    border: 1px solid grey;
+    background-color:steelblue;
+}
+
+.red-box {
+    border: 1px solid grey;
+    background-color:tomato;
+}
+
+.yellow-box {
+    border: 1px solid grey;
+    background: linear-gradient(to right,yellow, lightskyblue); ;
+}
+
+p {
+    font-family: 'Shalimar', cursive;
+}
