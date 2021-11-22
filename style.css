@@ -117,3 +117,15 @@ header {
 p {
     font-family: 'Shalimar', cursive;
 }
+
+.avatar img {
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    display:inline-block;
+
+    
+}
+
+
+
