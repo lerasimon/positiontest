@@ -120,7 +120,7 @@ h1 {
     color: #4a46ea;
 }
 
-@media screen and (max-width : 480px) {
+@media screen and (min-width : 25rem) {
   h1 {
      color:red; 
   }
