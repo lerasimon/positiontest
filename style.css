@@ -120,5 +120,9 @@ h1 {
     color: #4a46ea;
 }
 
+@media screen and (max-width : 480px) {
+  li {
+     margin:0;
+  }
 
 
